@@ -1,2 +1,9 @@
-_build
+*.a
+*.o
+*.cmx
+*.cmxa
+*.cma
+*.cmi
 *.native
+*.byte
+_build
